@@ -1,5 +1,5 @@
 # Happy :smile:
-[![Netlify Status](https://api.netlify.com/api/v1/badges/aef02942-1032-4ebd-bb5a-9e4c828a9b9e/deploy-status)](https://proffy-brunapm.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aef02942-1032-4ebd-bb5a-9e4c828a9b9e/deploy-status)](https://happy-curitiba.netlify.app/)
 ![GitHub language count](https://img.shields.io/github/languages/count/brunapm/happy-web)
 ![GitHub top language](https://img.shields.io/github/languages/top/brunapm/happy-web)
 ![Lines of code](https://img.shields.io/tokei/lines/github/brunapm/happy-web)
@@ -14,7 +14,7 @@ Happy was created to help people that want to help children by donating ther tim
 
 ### Status
 
-The application is functional and [deployed](https://proffy-brunapm.netlify.app/).
+The application is functional and [deployed](https://happy-curitiba.netlify.app/).
 
 ### Technologies
 
