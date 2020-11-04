@@ -11,6 +11,20 @@ The web interface was implemented using React and Typescript.
 
 It's currently online on https://happy-curitiba.netlify.app/
 
+### Technologies
+
+The following tools were used to build this project:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+And some important packages used were:
+
+- [React Leaflet](https://react-leaflet.js.org/): Map
+- [axios](https://github.com/axios/axios): Connection to API
+
 ### Author
 
 <img src="https://avatars1.githubusercontent.com/u/65819100?s=460&u=418b9bd94f4f9bcd2f3494bfd7b3a8ab8fd08662&v=4" width="100px;" alt=""/>
