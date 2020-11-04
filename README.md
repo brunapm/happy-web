@@ -1,15 +1,20 @@
-# Happy
-## Happy is an application to connect good people and orphanages to make children happier.
+# Happy :smile:
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aef02942-1032-4ebd-bb5a-9e4c828a9b9e/deploy-status)](https://proffy-brunapm.netlify.app/)
+![GitHub language count](https://img.shields.io/github/languages/count/brunapm/happy-web)
+![GitHub top language](https://img.shields.io/github/languages/top/brunapm/happy-web)
+![Lines of code](https://img.shields.io/tokei/lines/github/brunapm/happy-web)
+![GitHub repo size](https://img.shields.io/github/repo-size/brunapm/happy-web)
+![GitHub last commit](https://img.shields.io/github/last-commit/brunapm/happy-web)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+#### Happy is an application to connect good people and orphanages to make children happier.
+
+### About
+Happy was created to help people that want to help children by donating ther time to reach orphanages. It works by displaying orphanages information and allows the register of missing shelters.
 
 ### Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/aef02942-1032-4ebd-bb5a-9e4c828a9b9e/deploy-status)](https://app.netlify.com/sites/happy-curitiba/deploys)
-
-### Information
-
-The web interface was implemented using React and Typescript.
-
-It's currently online on https://happy-curitiba.netlify.app/
+The application is functional and [deployed](https://proffy-brunapm.netlify.app/).
 
 ### Technologies
 
