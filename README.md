@@ -20,8 +20,6 @@ The application is functional and [deployed](https://proffy-brunapm.netlify.app/
 
 The following tools were used to build this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
